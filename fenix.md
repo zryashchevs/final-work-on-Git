@@ -55,6 +55,7 @@ nothing to commit, working tree clean
 **git merge name_branch** - слияние веток
 **git branch -d name_branch** - удаляет ветку
 -d - это сокращение от delete
+**git checkout new_branch** - перейти в другую ветку
 ```
 
 ### Создание репозитория
@@ -86,3 +87,4 @@ Git clone - Идем в "Систему управления версиями" �
 https://learn.microsoft.com/ru-ru/contribute/content/markdown-reference
 
 ```
+Как-то так...
