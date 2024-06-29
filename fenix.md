@@ -65,11 +65,13 @@ nothing to commit, working tree clean
 Вводим название нового репозитория (например dark-forest) ->
 Пишем пояснения к новому репозиторию -> Сохраняем
 Копируем ссылку на Githab.com
+
 Git clone - Идем в "Систему управления версиями" в VScode, выбираем 3 точки (...(дополнительные действия)) 
 -> Клонировать
 -> вставляем ссылку на репозиторий
 -> выбираем папку
 -> Open
+
 **git remote add origin https://github.cohub.com/zryashchevs/dark-forest.git** - добавляем удаленный источник
 **git branch -M main** - меняем название master на main
 **git push -u origin main** - отправка фиксации в удаленный репозиторий
